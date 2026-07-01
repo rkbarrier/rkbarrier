@@ -4,7 +4,7 @@
 
 ### Enterprise Banking • Technology Resiliency • Business Continuity • Enterprise Payments • Risk & Governance
 
-Welcome to my professional portfolio.
+Welcome! This portfolio showcases original business analysis, enterprise banking, technology resiliency, governance, and executive reporting artifacts that demonstrate my approach to solving complex business and technology challenges.
 
 I have more than 17 years of experience delivering technology and business solutions within enterprise financial services. Throughout my career, I have partnered with business leaders, technology teams, operations, and executive stakeholders to improve business processes, strengthen operational resilience, manage risk, and deliver strategic technology initiatives.
 
