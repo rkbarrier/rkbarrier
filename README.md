@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Kristina Barrier 👋
 
-<!--
-**rkbarrier/rkbarrier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior Technology Business Systems Consultant | Business Analyst | Technology Resiliency | Risk & Compliance
 
-Here are some ideas to get you started:
+Welcome to my professional portfolio!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have more than 17 years of experience delivering technology and business solutions within enterprise financial services. My career has focused on bridging the gap between business needs and technology by improving processes, managing risk, strengthening operational resilience, and supporting complex banking platforms.
+
+### Areas of Expertise
+
+* Business Systems Analysis
+* Technology Resiliency
+* Business Continuity Planning
+* Disaster Recovery Planning
+* Governance & Risk Management
+* Regulatory Compliance
+* Enterprise Payments
+* ACH, Wire Transfers & ISO 20022
+* Process Improvement
+* Requirements Gathering
+* Agile & Waterfall Methodologies
+* Executive Reporting & Dashboards
+
+### Technical Skills
+
+* Jira
+* Confluence
+* Power BI
+* Tableau
+* Microsoft Excel
+* Microsoft Visio
+* SQL (working knowledge)
+* SharePoint
+
+### Portfolio
+
+This GitHub profile contains original sample work that demonstrates my approach to business analysis, documentation, governance, resiliency, and technology solutions. The materials are for portfolio purposes only and do not contain confidential or proprietary information from any employer.
+
+### Current Focus
+
+I'm continuing to expand this portfolio with practical examples, templates, process documentation, and solution designs that reflect the work of a Senior Business Systems Consultant and Technology Leader.
+
+Thank you for visiting my profile!
