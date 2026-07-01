@@ -1,6 +1,6 @@
 # Hi, I'm Kristina Barrier 👋
 
-## Senior Technology Business Systems Consultant | Business Analyst
+## Senior Business Systems Consultant | Enterprise Banking | Technology Resiliency
 
 ### Enterprise Banking • Technology Resiliency • Business Continuity • Enterprise Payments • Risk & Governance
 
