@@ -1,43 +1,109 @@
 # Hi, I'm Kristina Barrier 👋
 
-## Senior Technology Business Systems Consultant | Business Analyst | Technology Resiliency | Risk & Compliance
+## Senior Technology Business Systems Consultant | Business Analyst
 
-Welcome to my professional portfolio!
+### Enterprise Banking • Technology Resiliency • Business Continuity • Enterprise Payments • Risk & Governance
 
-I have more than 17 years of experience delivering technology and business solutions within enterprise financial services. My career has focused on bridging the gap between business needs and technology by improving processes, managing risk, strengthening operational resilience, and supporting complex banking platforms.
+Welcome to my professional portfolio.
 
-### Areas of Expertise
+I have more than 17 years of experience delivering technology and business solutions within enterprise financial services. Throughout my career, I have partnered with business leaders, technology teams, operations, and executive stakeholders to improve business processes, strengthen operational resilience, manage risk, and deliver strategic technology initiatives.
+
+This GitHub portfolio showcases original work samples that demonstrate my approach to business analysis, technology resiliency, enterprise payments, governance, executive reporting, and process improvement. All portfolio materials are created specifically for demonstration purposes and do not contain confidential or proprietary employer information.
+
+---
+
+# Featured Portfolio Projects
+
+## 🏦 Enterprise Bank Merger Integration
+
+A case study demonstrating business analysis, stakeholder coordination, commercial account conversion planning, process documentation, and operational risk management during a large-scale financial institution integration.
+
+**Highlights**
+
+* Business Requirements Documentation
+* Process Flow Diagrams
+* Stakeholder Analysis
+* Risk Assessment
+* Executive Project Summary
+
+---
+
+## 🔄 Technology Resiliency Program
+
+A collection of artifacts demonstrating business continuity planning, disaster recovery, operational readiness, and executive resiliency reporting.
+
+**Highlights**
+
+* Business Impact Analysis (BIA)
+* Disaster Recovery Planning
+* Executive Dashboard
+* Recovery Strategy
+* Operational Readiness
+
+---
+
+## 💳 Enterprise Payments Modernization
+
+A case study focused on enterprise payment operations, including ACH, wire transfers, merchant services, payment workflows, operational controls, and executive reporting.
+
+**Highlights**
+
+* ACH Payment Lifecycle
+* Wire Transfer Lifecycle
+* Executive Payments Dashboard
+* Payment Risk Assessment
+* ISO 20022 Overview
+
+---
+
+## 🛡️ Enterprise Risk & Governance
+
+Examples illustrating governance frameworks, operational risk management, compliance documentation, internal controls, and executive reporting.
+
+**Highlights**
+
+* Risk Assessment Matrix
+* Governance Framework
+* Controls Matrix
+* Risk Heat Map
+* Compliance Documentation
+
+---
+
+## 📊 Executive Business Intelligence
+
+Executive dashboards and reporting concepts designed to communicate operational performance, business health, and strategic metrics to leadership teams.
+
+**Highlights**
+
+* KPI Dashboards
+* Executive Scorecards
+* Performance Reporting
+* Business Intelligence Concepts
+* Data Visualization Examples
+
+---
+
+# Core Areas of Expertise
 
 * Business Systems Analysis
-* Technology Resiliency
 * Business Continuity Planning
-* Disaster Recovery Planning
-* Governance & Risk Management
-* Regulatory Compliance
+* Technology Resiliency
+* Disaster Recovery
 * Enterprise Payments
-* ACH, Wire Transfers & ISO 20022
+* Commercial Banking
+* Merchant Services
+* Risk Management
+* Governance & Compliance
 * Process Improvement
-* Requirements Gathering
+* Executive Reporting
+* Stakeholder Management
 * Agile & Waterfall Methodologies
-* Executive Reporting & Dashboards
 
-### Technical Skills
+---
 
-* Jira
-* Confluence
-* Power BI
-* Tableau
-* Microsoft Excel
-* Microsoft Visio
-* SQL (working knowledge)
-* SharePoint
+# Portfolio Purpose
 
-### Portfolio
+The materials within this GitHub portfolio represent original examples created to demonstrate professional knowledge, analytical thinking, documentation standards, and business problem-solving techniques. They are intended to showcase my approach to enterprise technology and business analysis and do not contain confidential, proprietary, or employer-owned information.
 
-This GitHub profile contains original sample work that demonstrates my approach to business analysis, documentation, governance, resiliency, and technology solutions. The materials are for portfolio purposes only and do not contain confidential or proprietary information from any employer.
-
-### Current Focus
-
-I'm continuing to expand this portfolio with practical examples, templates, process documentation, and solution designs that reflect the work of a Senior Business Systems Consultant and Technology Leader.
-
-Thank you for visiting my profile!
+Thank you for visiting my portfolio!
