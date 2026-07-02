@@ -1,5 +1,6 @@
-README.md
+</p>README.md
 github-banner.png
+
 
 <p align="center">
   <img src="images/Github-banner.png" alt="Kristina Barrier Banner" width="100%">
