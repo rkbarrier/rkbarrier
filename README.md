@@ -1,11 +1,6 @@
 </p>README.md
 github-banner.png
 
-
-<p align="center">
-  <img src="images/Github-banner.png" alt="Kristina Barrier Banner" width="100%">
-</p>
-
 # Hi, I'm Kristina Barrier 👋
 
 ## Senior Business Systems Consultant | Enterprise Banking | Technology Resiliency
